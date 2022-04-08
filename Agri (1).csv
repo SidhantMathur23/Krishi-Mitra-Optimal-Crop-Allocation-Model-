@@ -1,0 +1,161 @@
+Crop,State,Profit
+Bajra,Gujarat,1.75
+Bajra,Madhya Pradesh,4.44
+Bajra,Maharashtra,1
+Bajra,Delhi,2.5
+Bajra,Rajasthan,4.39
+Bajra,Tamil Nadu,3.07
+Bajra,Uttar Pradesh,5.03
+Barley,Rajasthan,4.35
+Barley,Uttar Pradesh,5.05
+Jowar,Andhra Pradesh,5.48
+Jowar,Gujarat,5.88
+Jowar,Maharashtra,6.88
+Jowar,Rajasthan,3.63
+Jowar,Tamil Nadu,0.37
+Jowar,Uttar Pradesh,3.03
+Rice,Andhra Pradesh,13.4
+Rice,Bihar,10.6
+Rice,Kerala,23.6
+Rice,Maharashtra,12.6
+Rice,Manipur,14.6
+Rice,Odisha,8.6
+Rice,Tripura,11.35
+Rice,Uttar Pradesh,5.02
+Rice,West Bengal,7.6
+Wheat,Bihar,0.95
+Wheat,Chhatisgarh,1.15
+Wheat,Gujarat,1.15
+Wheat,Kerala,0.35
+Wheat,Madhya Pradesh,0.95
+Wheat,Delhi,1
+Wheat,Rajasthan,0.1
+Wheat,Uttar Pradesh,0.4
+Wheat,West Bengal,0.35
+Maize,Andhra Pradesh,0.2
+Maize,Bihar,0.2
+Maize,Chhatisgarh,0.7
+Maize,Gujarat,0.7
+Maize,Maharashtra,0.3
+Maize,Madhya Pradesh,0.7
+Maize,Manipur,14.3
+Maize,Odisha,4.7
+Maize,Rajasthan,0.32
+Maize,Tamil Nadu,0.1
+Maize,Telangana,0
+Maize,Uttar Pradesh,0.7
+Maize,Uttarakhand,1.3
+Paddy,Bihar,1.9
+Paddy,Haryana,15
+Paddy,Madhya Pradesh,1.65
+Paddy,Rajasthan,15.39
+Paddy,Telangana,0.2
+Paddy,Uttar Pradesh,0
+Paddy,Andhra Pradesh,0.4
+Paddy,Chhatisgarh,5.4
+Paddy,Gujarat,3.87
+Paddy,Kerala,0.4
+Paddy,Maharashtra,0.47
+Paddy,Manipur,1.9
+Paddy,Delhi,17.36
+Paddy,Odisha,0
+Paddy,Pudducherry,4.85
+Paddy,Tamil Nadu,3.8
+Paddy,Tripura,3.9
+Paddy,West Bengal,0
+Ragi,Maharashtra,0.23
+Ragi,Pudducherry,11.91
+Ragi,Tamil Nadu,11.22
+Ragi,Telangana,19.77
+Arhar,Andhra Pradesh,6.25
+Arhar,Bihar,4.37
+Arhar,Gujarat,6
+Arhar,Kerala,32
+Arhar,Madhya Pradesh,9.83
+Arhar,Maharashtra,3
+Arhar,Delhi,27
+Arhar,Rajasthan,18
+Arhar,Tamil Nadu,26
+Arhar,Telangana,1.91
+Arhar,Uttar Pradesh,0.4
+Arhar,West Bengal,34
+Beans,Karnataka,12.75
+Beans,Kerala,5
+Beans,Madhya Pradesh,10
+Beans,Maharashtra,9
+Beans,Nagaland,26.5
+Beans,Odisha,2
+Beans,Tripura,4
+Bengal Gram,Andhra Pradesh,1.9
+Bengal Gram,Gujarat,3.9
+Bengal Gram,Karnataka,5.15
+Bengal Gram,Kerala,18.6
+Bengal Gram,Madhya Pradesh,5.15
+Bengal Gram,Maharashtra,3.95
+Bengal Gram,Manipur,28.6
+Bengal Gram,Rajasthan,3
+Bengal Gram,Telangana,1.9
+Bengal Gram,Uttar Pradesh,7.7
+Bengal Gram,West Bengal,18.6
+Urad,Andhra Pradesh,1
+Urad,Kerala,62
+Urad,Madhya Pradesh,19.25
+Urad,Maharashtra,3
+Urad,Manipur,52
+Urad,Pudducherry,10.06
+Urad,Rajasthan,16
+Urad,Tamil Nadu,2.83
+Urad,Uttar Pradesh,12.5
+Urad,West Bengal,27.35
+Moong,Kerala,27.25
+Moong,Maharashtra,1.75
+Moong,Pudducherry,13.65
+Moong,Rajasthan,13.5
+Moong,Tamil Nadu,0.35
+Moong,Uttar Pradesh,2.75
+Moong,West Bengal,20.25
+Masur,Bihar,21
+Masur,Madhya Pradesh,6
+Masur,Maharashtra,26.5
+Masur,Rajasthan,14.68
+Masur,Uttar Pradesh,22.35
+Masur,West Bengal,38.5
+Masur,Manipur,52.5
+Groundnut,Rajasthan,1.24
+Groundnut,Gujarat,4.15
+Groundnut,Madhya Pradesh,5.5
+Groundnut,Tamil Nadu,38.64
+Groundnut,Telangana,5.5
+Groundnut,Uttar Pradesh,4
+Mustard,Bihar,27.75
+Mustard,Haryana,14
+Mustard,Madhya Pradesh,13.32
+Mustard,Delhi,13.88
+Mustard,Rajasthan,13.29
+Mustard,Uttar Pradesh,16.85
+Mustard,West Bengal,24
+Sesamum,Madhya Pradesh,8.07
+Sesamum,Pudducherry,7.72
+Sesamum,Rajasthan,17.93
+Sesamum,Tamil Nadu,46.93
+Sesamum,Uttar Pradesh,18.93
+Sesamum,West Bengal,11.07
+Soyabean,Chhatisgarh,15.5
+Soyabean,Karnataka,32.5
+Soyabean,Madhya Pradesh,29.5
+Soyabean,Maharashtra,30.5
+Soyabean,Manipur,56.5
+Soyabean,Rajasthan,34.51
+Cotton,Gujarat,30.25
+Cotton,Haryana,20.6
+Cotton,Madhya Pradesh,31.87
+Cotton,Maharashtra,34.75
+Cotton,Punjab,22.15
+Cotton,Rajasthan,37.97
+Cotton,Tamil Nadu,20.75
+Cotton,Telangana,21.75
+Jute,West Bengal,20
+Millets,Chhatisgarh,20.3
+Millets,Madhya Pradesh,23.3
+Mustard Oil,Uttar Pradesh,113.65
+Mustard Oil,West Bengal,128.8
